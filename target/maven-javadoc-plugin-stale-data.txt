@@ -1,0 +1,57 @@
+@options
+@argfile
+-classpath
+'C:/Users/AHINCAPIE/.m2/repository/junit/junit/4.12/junit-4.12.jar;C:/Users/AHINCAPIE/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar;C:/Users/AHINCAPIE/.m2/repository/commons-io/commons-io/2.11.0/commons-io-2.11.0.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/AHINCAPIE/Desktop/sortingApp/src/main/java;C:/Users/AHINCAPIE/Desktop/sortingApp/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/AHINCAPIE/Desktop/sortingApp/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'SortingApp 1.0 API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/AHINCAPIE/Desktop/sortingApp/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'SortingApp 1.0 API'
+'C:/Users/AHINCAPIE/Desktop/sortingApp/src/main/java/SortingAppMain.java'
+C:\Users\AHINCAPIE\.m2\repository\junit\junit\4.12\junit-4.12.jar = 1692994025327
+C:\Users\AHINCAPIE\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar = 1692994024093
+C:\Users\AHINCAPIE\.m2\repository\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar = 1691092893923
+C:\Users\AHINCAPIE\Desktop\sortingApp\src\main\java\SortingAppMain.java = 1702158075010
+C:\Users\AHINCAPIE\Desktop\sortingApp\src\main\java = 1702158075010
+C:\Users\AHINCAPIE\Desktop\sortingApp\target\generated-sources\annotations = 1702159135635
+C:\Users\AHINCAPIE\Desktop\sortingApp\target\apidocs\allclasses-index.html = 1702159141049
+C:\Users\AHINCAPIE\Desktop\sortingApp\target\apidocs\allpackages-index.html = 1702159141053
+C:\Users\AHINCAPIE\Desktop\sortingApp\target\apidocs\copy.svg = 1702159141097
+C:\Users\AHINCAPIE\Desktop\sortingApp\target\apidocs\element-list = 1702159140993
+C:\Users\AHINCAPIE\Desktop\sortingApp\target\apidocs\help-doc.html = 1702159141086
+C:\Users\AHINCAPIE\Desktop\sortingApp\target\apidocs\index-all.html = 1702159141069
+C:\Users\AHINCAPIE\Desktop\sortingApp\target\apidocs\index.html = 1702159141077
+C:\Users\AHINCAPIE\Desktop\sortingApp\target\apidocs\member-search-index.js = 1702159141060
+C:\Users\AHINCAPIE\Desktop\sortingApp\target\apidocs\module-search-index.js = 1702159141056
+C:\Users\AHINCAPIE\Desktop\sortingApp\target\apidocs\overview-tree.html = 1702159141032
+C:\Users\AHINCAPIE\Desktop\sortingApp\target\apidocs\package-search-index.js = 1702159141058
+C:\Users\AHINCAPIE\Desktop\sortingApp\target\apidocs\package-summary.html = 1702159141003
+C:\Users\AHINCAPIE\Desktop\sortingApp\target\apidocs\package-tree.html = 1702159141011
+C:\Users\AHINCAPIE\Desktop\sortingApp\target\apidocs\package-use.html = 1702159141028
+C:\Users\AHINCAPIE\Desktop\sortingApp\target\apidocs\script.js = 1702159141095
+C:\Users\AHINCAPIE\Desktop\sortingApp\target\apidocs\search-page.js = 1702159141104
+C:\Users\AHINCAPIE\Desktop\sortingApp\target\apidocs\search.html = 1702159141074
+C:\Users\AHINCAPIE\Desktop\sortingApp\target\apidocs\search.js = 1702159141101
+C:\Users\AHINCAPIE\Desktop\sortingApp\target\apidocs\SortingAppMain.html = 1702159140990
+C:\Users\AHINCAPIE\Desktop\sortingApp\target\apidocs\stylesheet.css = 1702159141092
+C:\Users\AHINCAPIE\Desktop\sortingApp\target\apidocs\tag-search-index.js = 1702159141061
+C:\Users\AHINCAPIE\Desktop\sortingApp\target\apidocs\type-search-index.js = 1702159141059
